@@ -1,0 +1,11 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "author": "Bluemangoo",
+  "repo": "https://github.com/WhirlScript/hello",
+  "license": "MIT",
+  "index": "index",
+  "export": [
+    "src/hello"
+  ]
+}
