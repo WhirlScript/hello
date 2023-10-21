@@ -1,3 +1,7 @@
 #function hello(){
     print("Hello WhirlScript!");
 }
+
+#function helloWorld(){
+    print("Hello World!");
+}
