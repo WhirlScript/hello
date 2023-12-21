@@ -5,7 +5,7 @@
   "repo": "https://github.com/WhirlScript/hello",
   "license": "MIT",
   "index": "index",
-  "export": [
-    "src/hello"
-  ]
+  "export": {
+    "hello": "src/hello"
+  }
 }
