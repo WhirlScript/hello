@@ -10,6 +10,6 @@ wrp add hello
 
 ## Usage
 
-Import with `#import hello`;
+Import with `import "hello";`;
 
 Use `hello();` to say hello!
