@@ -1,7 +1,7 @@
-#function hello(){
+macro function hello(){
     print("Hello WhirlScript!");
 }
 
-#function helloWorld(){
+macro function helloWorld(){
     print("Hello World!");
 }
